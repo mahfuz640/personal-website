@@ -75,3 +75,37 @@ p {
 .m {
     font-size: 35;
 }
+
+.Gallery {
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+
+.l {
+    text-align: center;
+}
+
+.j {
+    padding: 3% 25%;
+}
+
+.k {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color: crimson;
+    padding: 4% 10%;
+    margin: 0% 20%;
+    border-radius: 8px;
+}
+
+.last {
+    background-image: url("img/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+}
